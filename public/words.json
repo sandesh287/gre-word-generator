@@ -97,40 +97,5 @@
         "example": "",
         "synonym": "",
         "antonym": ""
-    },
-    
-
-    { 
-        "word": "apple", 
-        "pos": "noun",
-        "root": "app",
-        "meaning": "A fruit with a red or green skin and a crisp texture", 
-        "example": "1. I have an apple. 2. He gave me apple.",
-        "synonym": "pple",
-        "antonym": "elpp"
-    },
-    { 
-        "word": "grape", 
-        "meaning": "A small, sweet, pulpy, purple or green fruit that grows in bunches", 
-        "example": "I have a grape", 
-        "synonym": "ape" 
-    },
-    { 
-        "word": "banana", 
-        "meaning": "A long curved fruit that grows in clusters", 
-        "example": "I have a banana", 
-        "synonym": "nana" 
-    },
-    { 
-        "word": "kiwi", 
-        "meaning": "A small brown fuzzy fruit with bright green flesh", 
-        "example": "I have a kiwi", 
-        "synonym": "iwi" 
-    },
-    { 
-        "word": "orange", 
-        "meaning": "A round citrus fruit with a tough bright reddish-yellow rind", 
-        "example": "I have an orange", 
-        "synonym": "rang" 
     }
 ]
