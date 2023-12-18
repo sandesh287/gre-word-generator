@@ -1,0 +1,136 @@
+[
+    {
+        "word": "archaic",
+        "pos": "adj",
+        "root": "arch = old",
+        "meaning": "very old or outdated",
+        "example": "=> The archaic meaning of the word. => The archaic system of the Nepal army.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "figurative",
+        "pos": "adj",
+        "root": "",
+        "meaning": "1. representing a typical figure. 2. giving secondary meaning",
+        "example": "1. figurative arts. 2. The figurative meaning of a word is based on the primary meaning.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "verdant",
+        "pos": "adj",
+        "root": "",
+        "meaning": "1. green 2. lacking experience",
+        "example": "1. verdant forest 2. a verdant teacher",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "seasoned",
+        "pos": "adj",
+        "root": "",
+        "meaning": "1. with salt & flavored 2. dry 3. highly experienced",
+        "example": "1. seasoned noodles 2. seasoned wood 3. seasoned teachers",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "mentor",
+        "pos": "adj",
+        "root": "",
+        "meaning": "expert(experienced teacher or trainer)",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "mentor",
+        "pos": "verb",
+        "root": "",
+        "meaning": "to teach or train by an expert",
+        "example": "students mentoring program",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "ambigious",
+        "pos": "adj",
+        "root": "ambi = both",
+        "meaning": "(not of a person) giving either this or that meaning",
+        "example": "ambigious word/ expression",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "ambivalent",
+        "pos": "adj",
+        "root": "ambi = both",
+        "meaning": "(of a person) having contradictory feeling or opinions at the same time",
+        "example": "I am ambivalent about my job.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "equivocal",
+        "pos": "adj",
+        "root": "equi = equal",
+        "meaning": "(of a person or expression) giving either this or that meaning",
+        "example": "equivocal expression/ politician",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "equivocate",
+        "pos": "verb",
+        "root": "equi = equal",
+        "meaning": "to express unclearly (gives either this or that meaning)",
+        "example": "",
+        "synonym": "waffle: (Eg. The politician waffled on the issue)",
+        "antonym": ""
+    },
+    {
+        "word": "cognition",
+        "pos": "noun",
+        "root": "",
+        "meaning": "1. concious mental activity which includes thinking, understanding, learning and remembering 2. proper understanding",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    
+
+    { 
+        "word": "apple", 
+        "pos": "noun",
+        "root": "app",
+        "meaning": "A fruit with a red or green skin and a crisp texture", 
+        "example": "1. I have an apple. 2. He gave me apple.",
+        "synonym": "pple",
+        "antonym": "elpp"
+    },
+    { 
+        "word": "grape", 
+        "meaning": "A small, sweet, pulpy, purple or green fruit that grows in bunches", 
+        "example": "I have a grape", 
+        "synonym": "ape" 
+    },
+    { 
+        "word": "banana", 
+        "meaning": "A long curved fruit that grows in clusters", 
+        "example": "I have a banana", 
+        "synonym": "nana" 
+    },
+    { 
+        "word": "kiwi", 
+        "meaning": "A small brown fuzzy fruit with bright green flesh", 
+        "example": "I have a kiwi", 
+        "synonym": "iwi" 
+    },
+    { 
+        "word": "orange", 
+        "meaning": "A round citrus fruit with a tough bright reddish-yellow rind", 
+        "example": "I have an orange", 
+        "synonym": "rang" 
+    }
+]
