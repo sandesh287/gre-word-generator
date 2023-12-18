@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 function Home() {
     const [wordDataset, setWordDataset] = useState(null);
     const [currentRandomWordIndex, setCurrentRandomWordIndex] = useState(null);
-    const [randomWord, setRandomWord] = useState('Click the button to generate a random word');
+    const [randomWord, setRandomWord] = useState('Click the button to generate a random GRE word');
     const [wordPOS, setWordPOS] = useState('Word part of speech will be displayed here');
     const [wordRoot, setWordRoot] = useState('Word root meaning will be displayed here');
     const [wordMeaning, setWordMeaning] = useState('Word meaning will be displayed here');
@@ -41,7 +41,7 @@ function Home() {
 
         // Update the state
         setCurrentRandomWordIndex(randomIndex);
-        setRandomWord(`Random Word: ${randomWord}`);
+        setRandomWord(<div>Random GRE Word:<span className="neon-text"> {randomWord}</span></div>);
         setWordPOS('Word part of speech will be displayed here');
         setWordRoot('Word root meaning will be displayed here');
         setWordMeaning('Word meaning will be displayed here');
@@ -53,7 +53,7 @@ function Home() {
     const displayWordPOS = () => {
         if (currentRandomWordIndex !== null) {
             const pos = wordDataset[currentRandomWordIndex].pos;
-            setWordPOS(`Part of speech: ${pos}`);
+            setWordPOS(<div>Part of speech:<span className="blue-text"> {pos}</span></div>);
         } else {
             console.error('No word generated yet');
         }
@@ -62,7 +62,7 @@ function Home() {
     const displayWordRoot = () => {
         if (currentRandomWordIndex !== null) {
             const root = wordDataset[currentRandomWordIndex].root;
-            setWordRoot(`Root: ${root}`);
+            setWordRoot(<div>Root:<span className="blue-text"> {root}</span></div>);
         } else {
             console.error('No word generated yet');
         }
@@ -71,7 +71,7 @@ function Home() {
     const displayWordMeaning = () => {
         if (currentRandomWordIndex !== null) {
             const meaning = wordDataset[currentRandomWordIndex].meaning;
-            setWordMeaning(`Meaning: ${meaning}`);
+            setWordMeaning(<div>Meaning:<span className="blue-text"> {meaning}</span></div>);
         } else {
             console.error('No word generated yet');
         }
@@ -80,7 +80,7 @@ function Home() {
     const displayWordExample = () => {
         if (currentRandomWordIndex !== null) {
             const example = wordDataset[currentRandomWordIndex].example;
-            setWordExample(`Example: ${example}`);
+            setWordExample(<div>Example:<span className="blue-text"> {example}</span></div>);
         } else {
             console.error('No word generated yet');
         }
@@ -89,7 +89,7 @@ function Home() {
     const displayWordSynonym = () => {
         if (currentRandomWordIndex !== null) {
         const synonym = wordDataset[currentRandomWordIndex].synonym;
-        setWordSynonym(`Synonym: ${synonym}`);
+        setWordSynonym(<div>Synonym:<span className="blue-text"> {synonym}</span></div>);
         } else {
         console.error('No word generated yet');
         }
@@ -98,7 +98,7 @@ function Home() {
     const displayWordAntonym = () => {
         if (currentRandomWordIndex !== null) {
             const antonym = wordDataset[currentRandomWordIndex].antonym;
-            setWordAntonym(`Antonym: ${antonym}`);
+            setWordAntonym(<div>Antonym:<span className="blue-text"> {antonym}</span></div>);
         } else {
             console.error('No word generated yet');
         }

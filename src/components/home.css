@@ -38,3 +38,11 @@ button:hover{
     box-shadow: 0 30px 45px -15px rgba(0,111,255,0.6);
     font-size: 16px;
 }
+
+.neon-text{
+    color: rgba(23, 74, 8, 0.688);
+}
+
+.blue-text{
+    color: #c07c08;
+}
