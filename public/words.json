@@ -5,53 +5,53 @@
         "root": "arch = old",
         "meaning": "very old or outdated",
         "example": "=> The archaic meaning of the word. => The archaic system of the Nepal army.",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "figurative",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "1. representing a typical figure. 2. giving secondary meaning",
         "example": "1. figurative arts. 2. The figurative meaning of a word is based on the primary meaning.",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "verdant",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "1. green 2. lacking experience",
         "example": "1. verdant forest 2. a verdant teacher",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "seasoned",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "1. with salt & flavored 2. dry 3. highly experienced",
         "example": "1. seasoned noodles 2. seasoned wood 3. seasoned teachers",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "mentor",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "expert(experienced teacher or trainer)",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "mentor",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "to teach or train by an expert",
         "example": "students mentoring program",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "ambigious",
@@ -59,8 +59,8 @@
         "root": "ambi = both",
         "meaning": "(not of a person) giving either this or that meaning",
         "example": "ambigious word/ expression",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "ambivalent",
@@ -68,8 +68,8 @@
         "root": "ambi = both",
         "meaning": "(of a person) having contradictory feeling or opinions at the same time",
         "example": "I am ambivalent about my job.",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "equivocal",
@@ -77,44 +77,44 @@
         "root": "equi = equal",
         "meaning": "(of a person or expression) giving either this or that meaning",
         "example": "equivocal expression/ politician",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "equivocate",
         "pos": "verb",
         "root": "equi = equal",
         "meaning": "to express unclearly (gives either this or that meaning)",
-        "example": "",
+        "example": "N/A",
         "synonym": "waffle: (Eg. The politician waffled on the issue)",
-        "antonym": ""
+        "antonym": "N/A"
     },
     {
         "word": "cognition",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "1. concious mental activity which includes thinking, understanding, learning and remembering 2. proper understanding",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "interchangeable",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "that can be replaced by another",
         "example": "interchangeable words/ phrases",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "tedious",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "long and boring (that causes the symptoms of sleep)",
         "example": "a tedious lecture",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "ingenious",
@@ -122,35 +122,35 @@
         "root": "in = into, genious = genious",
         "meaning": "clever or inventive/ creative",
         "example": "=> an ingenious artist => ingenious solution => ingenious smartphone",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "ingenuity",
         "pos": "noun",
         "root": "in = into, genious = genious",
         "meaning": "cleverness or inventiveness/ creativity",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "repetitive",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "1. that repeats time & again 2. that repeats time & again that is boring",
         "example": "1. repetitive pain 2. a repetitive job",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "soporific",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "causing sleep",
         "example": "=> soporific atmosphere/ medicine => The teacher was soporific in the class",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "ingenuous",
@@ -158,26 +158,26 @@
         "root": "in = into, genuous = genuine",
         "meaning": "simple & honest/ innocent (straight-forward)",
         "example": "ingenuous women/ villager/ thought/ smile",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "ingenue",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "a women who is simple & honest (innocent & straight-forward)",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "disingenuous",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "appearing to be simple & honest, but actually not (indirect & dishonest)",
         "example": "disingenuous person/ activity",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "monotonous",
@@ -185,26 +185,26 @@
         "root": "mono = single",
         "meaning": "boring because the same thing comes repetitively",
         "example": "monotonous job",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "while",
         "pos": "conjuction",
-        "root": "",
+        "root": "N/A",
         "meaning": "1. during the time that 2. although (gives unexpected)",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "doze",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "to sleep partially",
         "example": "The manager was dozing at his table",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "insomnia",
@@ -212,26 +212,26 @@
         "root": "in = not, somn = sleep",
         "meaning": "sleep disorder",
         "example": "He is suffering from insomnia",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "sedative",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "a drug that causes sleep",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "sedate",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "calm or peaceful",
         "example": "=> sedate behaviour => sedate pace of walk => sedate village/ neighborhood",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "somnolent",
@@ -239,26 +239,26 @@
         "root": "somn = sleep",
         "meaning": "having thin sleep",
         "example": "somnolent cat/ dog/ baby",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "somniloguist",
         "pos": "noun",
         "root": "somn = sleep, log = talk",
         "meaning": "a person who speaks while sleeping",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "somnambulist",
         "pos": "noun",
         "root": "somn = sleep, ambul = move",
         "meaning": "a person who walks while sleeping",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "somniferous",
@@ -266,62 +266,62 @@
         "root": "somn = sleep, ferous = carry",
         "meaning": "causing sleep",
         "example": "somiferous atmosphere",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "slumber",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "sleep",
         "example": "Slumber is necessary to replenish energy.",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "slumber",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "to sleep",
         "example": "The child was slumbering all the morning.",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "lumber",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "wood",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "lumber",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "to move in an awkward way (because of heavy weight or size)",
         "example": "lumbering elephant/ truck",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "replenish",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "refill",
         "example": "=> The cylinder was replenished with gas. => His bank account was replenished.",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "fitful",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "irregular",
         "example": "=> fitful sleep => fitful trend",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "interminable",
@@ -329,17 +329,17 @@
         "root": "in = not, term = period",
         "meaning": "long and boring",
         "example": "interminable lecture",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "inculcate",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "to teach repeatedly (until you are prepared)",
         "example": "He inculcated in me political ideology",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "indoctrinate",
@@ -347,8 +347,8 @@
         "root": "in = into, doctrin = principle",
         "meaning": "to teach beliefs (usually negative)",
         "example": "The children were indoctrinated",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "doctrinaire",
@@ -356,134 +356,134 @@
         "root": "doctrin = principle",
         "meaning": "willing to impose doctrine in spite if practicality",
         "example": "a doctrinaire communist/ socialist",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "conspire",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "to take part in a conspiracy",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "plot",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "to conspire",
-        "example": "",
+        "example": "N/A",
         "synonym": "=> machinate, => scheme: (Eg. They are scheming against the government.)",
-        "antonym": ""
+        "antonym": "N/A"
     },
     {
         "word": "machination",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "conspiracy",
-        "example": "",
+        "example": "N/A",
         "synonym": "=> plot, => scheme",
-        "antonym": ""
+        "antonym": "N/A"
     },
     {
         "word": "plotter",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "a person who conspires",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "intrigue",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "1. to make secret plans or conspiracy *2. to cause extreme interest",
         "example": "2. intriguing story",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "cabal",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "a small group of plotters",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "collude",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "to conspire together with somebody",
         "example": "He was accused of colluding against the government.",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "collusion",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "conspiracy (together with somebody)",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "collusive",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "conspiring (together with somebody)",
         "example": "collusive behaviour",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "nuance",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "slight difference (that is very difficult to distinguish)",
         "example": "=> nuance between synonyms => I can see nuance on your face. => nuance in colors",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "dissemble",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "to hide (your true feelings or opinions)",
         "example": "to dissemble political ideology",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "domineering",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "wanting others to obey what is ordered (not giving freedom)",
         "example": "domineering elder brother/ manager/ attitude",
         "synonym": "overbearing",
-        "antonym": ""
+        "antonym": "N/A"
     },
     {
         "word": "research",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "careful study which includes survey, experiment, or observation",
         "example": "The ultimate objective of research is to invest or discover.",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "feign",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "to pretend (to hide reality)",
         "example": "The soldier was feigning death in the battlefield.",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "unfeigned",
@@ -491,35 +491,35 @@
         "root": "un = not",
         "meaning": "real (not pretended)",
         "example": "unfeigned interest in study",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "orator",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "public speaker",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "oration",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "formal speech",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "oracular",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "indicating what will happen in the future",
         "example": "=> oracular statements of the bible => oracular sign",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "peroration",
@@ -527,8 +527,8 @@
         "root": "pero = last, oration = speech",
         "meaning": "1. concluding part of oration 2. long and boring speech",
         "example": "2. The politician delivered a peroration",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "orotund",
@@ -536,26 +536,26 @@
         "root": "oro = mouth",
         "meaning": "1. loud and forceful 2. bombastic",
         "example": "1. orotund speech/ speechmaker",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "bombastic",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "seemingly impressive but meaningless",
         "example": "a bombastic teacher/ teaching/ writing",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "pompous",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "seemingly impressive but meaningless (showy)",
         "example": "a pompous teacher/ lecture/ writing/ walk/ dance",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "miscreant",
@@ -563,80 +563,80 @@
         "root": "mis = wrong, creant = creation",
         "meaning": "wrong doer/ evil doer",
         "example": "The miscreant was captured and punished",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "recreant",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "1. cowardly (fearful) 2. unfaithful to the principle",
         "example": "1. a recreant person 2. the recreant member of the religious organization",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "coward",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "a fearful person",
-        "example": "",
-        "synonym": "",
-        "antonym": ""
+        "example": "N/A",
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "interloper",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "trespasser",
-        "example": "",
+        "example": "N/A",
         "synonym": "=> intruder, => trespasser",
-        "antonym": ""
+        "antonym": "N/A"
     },
     {
         "word": "intrude",
         "pos": "verb",
         "root": "in = into, trude = direction",
         "meaning": "to go to a place where your presence is not welcome",
-        "example": "",
+        "example": "N/A",
         "synonym": "=> trespass => interlope",
-        "antonym": ""
+        "antonym": "N/A"
     },
     {
         "word": "intrusion",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "disturbance (because it interferes others' personal life)",
         "example": "sorry for intrusion",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "intrusive",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "disturbing (because it interfers your personal life)",
         "example": "intrusive activity/ reporter",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "welcome",
         "pos": "adj",
-        "root": "",
+        "root": "N/A",
         "meaning": "that makes you happy",
         "example": "welcome rain/ news",
-        "synonym": "",
+        "synonym": "N/A",
         "antonym": "unwelcome"
     },
     {
         "word": "extrude",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "1. to bring metal or plastic into shape by pushing from inward 2. to come out forcefully",
         "example": "2. lava extruding from volcano",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "protrude",
@@ -644,24 +644,807 @@
         "root": "pro = further",
         "meaning": "stick out",
         "example": "protruding teeth",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "despair",
         "pos": "noun",
-        "root": "",
+        "root": "N/A",
         "meaning": "hopelessness",
         "example": "He quit his exam in despair",
-        "synonym": "",
-        "antonym": ""
+        "synonym": "N/A",
+        "antonym": "N/A"
     },
     {
         "word": "impair",
         "pos": "verb",
-        "root": "",
+        "root": "N/A",
         "meaning": "weaken, worsen or damaged",
         "example": "=> to impair the economic goal of the country => to impair nationality => impaired vision/ mental faculty",
+        "synonym": "N/A",
+        "antonym": "N/A"
+    },
+    {
+        "word": "duress",
+        "pos": "noun",
+        "root": "",
+        "meaning": "threat",
+        "example": "The politician is under duress.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "ebulient",
+        "pos": "adj",
+        "root": "e = express, bull = energy",
+        "meaning": "very energetic or enthusiastic",
+        "example": "the ebullient professor",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "ebullience",
+        "pos": "noun",
+        "root": "e = express, bull = energy",
+        "meaning": "great energy or enthusiasm",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "vivacious",
+        "pos": "adj",
+        "root": "",
+        "meaning": "very energetic",
+        "example": "vivacious actress",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "spry",
+        "pos": "adj",
+        "root": "",
+        "meaning": "vigorously active",
+        "example": "a spry teacher",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "pry",
+        "pos": "verb",
+        "root": "",
+        "meaning": "1. to separate wood * 2. to take interest in other's personal matters unnecessarily",
+        "example": "2. I don't like prying.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "nosy",
+        "pos": "adj",
+        "root": "",
+        "meaning": "taking interest in other's personal matters unnecessarily",
+        "example": "a nosy classmate",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "lackadaisical",
+        "pos": "adj",
+        "root": "",
+        "meaning": "not showing energy or enthusiasm",
+        "example": "a lackadaisical teacher/ teaching",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "impassioned",
+        "pos": "adj",
+        "root": "im = into, passion = enthusiasm",
+        "meaning": "very energetic",
+        "example": "impassioned speech/ lecture",
+        "synonym": "",
+        "antonym": "unimpassioned"
+    },
+    {
+        "word": "impassive",
+        "pos": "adj",
+        "root": "im = into, passive",
+        "meaning": "not showing energy or enthusiasm/ not showing feelings or emotions",
+        "example": "impassive mood",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "dispassionate",
+        "pos": "adj",
+        "root": "",
+        "meaning": "unbiased",
+        "example": "dispassionate judge/ judgement (+ve)",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "passionate",
+        "pos": "adj",
+        "root": "",
+        "meaning": "1. very hot 2. having or showing strong feelings 3. having or showing sexual feelings",
+        "example": "1. the passionate sun in the sky 2. a passionate speech/ speechmaker",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "forlorn",
+        "pos": "adj",
+        "root": "lorn = sad",
+        "meaning": "1. unhappy & isolated 2. with no people in it",
+        "example": "1. a forlorn widow 2. a forlorn home/ village",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "desolate",
+        "pos": "adj",
+        "root": "",
+        "meaning": "1. unhappy & isolated 2. unpopulated (because the place is not suitable to live)",
+        "example": "1. a desolate widow 2. => the desolate surface of Mars => desolate desert",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "lovelorn",
+        "pos": "adj",
+        "root": "lorn = sad",
+        "meaning": "unhappy because the perso whom you love doesn't love you",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "electrify",
+        "pos": "verb",
+        "root": "",
+        "meaning": "1. to supply electricity 2. highly energize",
+        "example": "1. the rural electrification program 2. to electrify the audience",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "deadpan",
+        "pos": "adj",
+        "root": "",
+        "meaning": "uninteresting or unexciting presentation",
+        "example": "deadpan presentation",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "apogee",
+        "pos": "noun",
+        "root": "apo = at peak",
+        "meaning": "highest point",
+        "example": "apogee of success",
+        "synonym": "=> acme => pinnacle => apex",
+        "antonym": ""
+    },
+    {
+        "word": "apex",
+        "pos": "adj",
+        "root": "",
+        "meaning": "supreme",
+        "example": "the apex court",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "apotheosis",
+        "pos": "noun",
+        "root": "apo = at peak, the = God",
+        "meaning": "highest point of success",
+        "example": "The player reached apotheosis in his mid 20s.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "vertex",
+        "pos": "noun",
+        "root": "",
+        "meaning": "highest point",
+        "example": "The people's moment was in its vertex.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "vortex",
+        "pos": "noun",
+        "root": "",
+        "meaning": "whirlpool/ whirlwind (sometimes used figuratively)",
+        "example": "the vortex of terror",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "zenith",
+        "pos": "noun",
+        "root": "",
+        "meaning": "highest point (vertical)",
+        "example": "the zenith of the career",
+        "synonym": "",
+        "antonym": "nadir: [lowest point (Eg. the nadir of the career)]"
+    },
+    {
+        "word": "nadir",
+        "pos": "noun",
+        "root": "",
+        "meaning": "lowest point",
+        "example": "the nadir of the career",
+        "synonym": "",
+        "antonym": "zenith"
+    },
+    {
+        "word": "brink",
+        "pos": "noun",
+        "root": "",
+        "meaning": "1. final edge *2. risky zone",
+        "example": "2. at the brink of the career",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "epiphany",
+        "pos": "noun",
+        "root": "phan = transparent",
+        "meaning": "sudden realization that everything becomes transparent",
+        "example": "His meditation culminated in epiphany.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "culminate",
+        "pos": "verb",
+        "root": "",
+        "meaning": "1. to reach highest point after a process 2. to end after a process",
+        "example": "2. Their dispute culminated in fight.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "dispute",
+        "pos": "noun",
+        "root": "",
+        "meaning": "argument",
+        "example": "Their dispute culminated in fight.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "fulminate",
+        "pos": "verb",
+        "root": "",
+        "meaning": "1. thunder 2. to complain angrily 3. to grow & suddenly become painful",
+        "example": "1. the clouds fulminated 2. They fulminated against the proposal 3. the tumor fulminated",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "rail against",
+        "pos": "phrase",
+        "root": "",
+        "meaning": "to complain angrily",
+        "example": "They railed against the proposal.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "diaphanous",
+        "pos": "adj",
+        "root": "dia = across, phan = transparent",
+        "meaning": "thin, light & transparent",
+        "example": "diaphanous curtain/ paper",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "sheer",
+        "pos": "adj",
+        "root": "",
+        "meaning": "1. thin, light & transparent 2. complete 3. very steep 4. unlimited",
+        "example": "1 sheer curtain 2. sheer pleasure/ volume 3. sheer mountain 4. sheer natural resources",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "seer",
+        "pos": "adj",
+        "root": "see = vision",
+        "meaning": "future teller",
+        "example": "The politician is a seer",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "gassamer",
+        "pos": "noun",
+        "root": "",
+        "meaning": "1. spider web *2. easily damageable",
+        "example": "2. gossamer fabric",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "impassse",
+        "pos": "noun",
+        "root": "im = not",
+        "meaning": "a very complicated situation from which you can't step further (deadlock)",
+        "example": "",
+        "synonym": "stalemate: (Eg. the political stalemate)",
+        "antonym": ""
+    },
+    {
+        "word": "quagmire",
+        "pos": "noun",
+        "root": "",
+        "meaning": "1. wet & dangerous land *2. a very complicated situation from which you can't come out",
+        "example": "2. the quagmire of controversy",
+        "synonym": "=> mire => morass",
+        "antonym": ""
+    },
+    {
+        "word": "mire",
+        "pos": "verb",
+        "root": "",
+        "meaning": "to get into a complicated situation from which you can't come out easily",
+        "example": "He was mired in controversy.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "capitulate",
+        "pos": "verb",
+        "root": "capit = head",
+        "meaning": "to surrender (to give up under-pressure/ to admit under-pressure)",
+        "example": "the rivals capitulate",
+        "synonym": "=> submit => yield => cede (Eg. => to cede power => Hongkong was ceded to Britain by China.)",
+        "antonym": ""
+    },
+    {
+        "word": "yield",
+        "pos": "verb",
+        "root": "",
+        "meaning": "to produce",
+        "example": "The meeting yielded no conclusion.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "revert",
+        "pos": "verb",
+        "root": "",
+        "meaning": "to return",
+        "example": "=> Hongkong wa reverted to China by Britain. => He reverted to his earlier habit/ profession.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "recapitulate",
+        "pos": "verb",
+        "root": "re = again, capit = head",
+        "meaning": "to summarize (to include important matters)",
+        "example": "The movie recapitulates the history of Nepal.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "capital punishment",
+        "pos": "phrase",
+        "root": "",
+        "meaning": "death penalty",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "decapitate",
+        "pos": "verb",
+        "root": "de = apart, capit = head",
+        "meaning": "behead",
+        "example": "The journalist was decapitated.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "captious",
+        "pos": "adj",
+        "root": "cap = capture",
+        "meaning": "fault finding",
+        "example": "a captious student",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "regress",
+        "pos": "verb",
+        "root": "re = back, gress = direction",
+        "meaning": "to go back to the worse condition",
+        "example": "the society regressed",
+        "synonym": "retrogress: (Root: retro = past)",
+        "antonym": "progress"
+    },
+    {
+        "word": "regressive",
+        "pos": "adj",
+        "root": "re = back, gress = direction",
+        "meaning": "going back to the worse condition",
+        "example": "The regressive policy of the government",
+        "synonym": "retrogressive: (Root: retro = past)",
+        "antonym": "progressive"
+    },
+    {
+        "word": "transgress",
+        "pos": "verb",
+        "root": "trans = across",
+        "meaning": "to go beyond the limit of morality",
+        "example": "He was punished for his transgression.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "digress",
+        "pos": "verb",
+        "root": "di = division",
+        "meaning": "deviate",
+        "example": "The teacher was digressive in the class.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "excursive",
+        "pos": "adj",
+        "root": "ex = out, cur = turn",
+        "meaning": "digressive",
+        "example": "The teacher was excursive in the class.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "congress",
+        "pos": "verb",
+        "root": "",
+        "meaning": "gather at a place for typical purpose",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "congress",
+        "pos": "noun",
+        "root": "",
+        "meaning": "gathering at a place for typical purpose",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "ingress",
+        "pos": "noun",
+        "root": "in = into",
+        "meaning": "entrance",
+        "example": "",
+        "synonym": "",
+        "antonym": "egress: [exit (Root: e = out)]"
+    },
+    {
+        "word": "entrance",
+        "pos": "verb",
+        "root": "",
+        "meaning": "fascinate (greatly attract)",
+        "example": "=> entrancing beauty => He was entranced by the city's beauty.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "impugn",
+        "pos": "verb",
+        "root": "",
+        "meaning": "to cast doubt (challenge)",
+        "example": "=> The professor impugned the conclusion of the research. => He impugned her character.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "challenge",
+        "pos": "verb",
+        "root": "",
+        "meaning": "1. to invite for competition 2. to cast doubt 3. a difficult task (that requires much time & effort)",
+        "example": "1. The students challenge the teacher's quality. 3. The research topic is a challenge for me.",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "unchallenged",
+        "pos": "adj",
+        "root": "",
+        "meaning": "undoubted",
+        "example": "The fact is unchallenged",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "challenging",
+        "pos": "adj",
+        "root": "",
+        "meaning": "very difficult but enjoyable",
+        "example": "a challenging job",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "acrimonious",
+        "pos": "adj",
+        "root": "ac = sour/ bitter",
+        "meaning": "sour/ bitter (taste/ remark/ relation)",
+        "example": "acrimonious remark",
+        "synonym": "=> acrid => acerbic => acetic => acidulous => acidic",
+        "antonym": ""
+    },
+    {
+        "word": "acidic",
+        "pos": "adj",
+        "root": "acid = sour/ bitter",
+        "meaning": "containing acid",
+        "example": "acidic soil",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "cacophony",
+        "pos": "noun",
+        "root": "caco = harsh",
+        "meaning": "harsh sound (you are not impressed/ it causes irritation)",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "cacophonous",
+        "pos": "adj",
+        "root": "caco = harsh",
+        "meaning": "unpleasant to listen",
+        "example": "cacophonous ringtone",
+        "synonym": "=> grating => raspy => rasping => raucous",
+        "antonym": ""
+    },
+    {
+        "word": "dulcet",
+        "pos": "adj",
+        "root": "",
+        "meaning": "pleasant to listen",
+        "example": "dulcet sound of the piano",
+        "synonym": "=> nelodious => mellifluous => euphonic => euphonious: (Root: eu = good)",
+        "antonym": ""
+    },
+    {
+        "word": "sonorous",
+        "pos": "adj",
+        "root": "",
+        "meaning": "deep & continuous (+ve)",
+        "example": "the sonorous sound of the flute",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "sinecure",
+        "pos": "noun",
+        "root": "",
+        "meaning": "position without responsibility & power, but well paid",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "titular",
+        "pos": "adj",
+        "root": "",
+        "meaning": "of only title (without responsibility & power)",
+        "example": "He is the titular head of the organization.",
+        "synonym": "nominal: (Root: nom = name)",
+        "antonym": ""
+    },
+    {
+        "word": "nominal",
+        "pos": "adj",
+        "root": "",
+        "meaning": "very inexpensive",
+        "example": "nominal price",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "figurehead",
+        "pos": "noun",
+        "root": "",
+        "meaning": "a titular person",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "titled",
+        "pos": "adj",
+        "root": "",
+        "meaning": "of higher rank",
+        "example": "titled army officer",
+        "synonym": "",
+        "antonym": "humble: (Eg. humble family/ class)"
+    },
+    {
+        "word": "resolve",
+        "pos": "verb",
+        "root": "",
+        "meaning": "to settle",
+        "example": "to resolve a dispute/ paradox",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "resolve",
+        "pos": "noun",
+        "root": "",
+        "meaning": "strong determination",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "since",
+        "pos": "adverb",
+        "root": "",
+        "meaning": "point of time",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "since",
+        "pos": "conjuction",
+        "root": "",
+        "meaning": "because",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "strained",
+        "pos": "adj",
+        "root": "",
+        "meaning": "tense (relation/ physical state)",
+        "example": "=> strained eyes => strained relation between India & Pakistan",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "fragile",
+        "pos": "adj",
+        "root": "frag = fragment",
+        "meaning": "easily damageable or breakable",
+        "example": "fragile relation/ flowers",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "reconcile",
+        "pos": "adj",
+        "root": "re =again, con = together, cile = agreement",
+        "meaning": "reunite",
+        "example": "the reconcilation of Germany/ political party/ lovers",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "reconcile",
+        "pos": "verb",
+        "root": "re =again, con = together, cile = agreement",
+        "meaning": "to arrange both sides in order to settle a problem",
+        "example": "to reconcile data",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "docile",
+        "pos": "adj",
+        "root": "",
+        "meaning": "calm or peaceful (easily manageable or tractable)",
+        "example": "docile pets/ children/ students",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "facile",
+        "pos": "adj",
+        "root": "",
+        "meaning": "1. easy (requiring little time & effort) 2. effortless 3. performing something easily (without burden) 4. so simple that it sounds stupid (lacking logic)",
+        "example": "1. a facile job 2. a facile victory 3. a facile teacher 4. a facile response to a serious question",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "estrange",
+        "pos": "verb",
+        "root": "",
+        "meaning": "1. to separate 2. to cause dissatisfaction",
+        "example": "1. => estranged couples => He estranged from his family. 2. to estrange the voters",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "estrangement",
+        "pos": "noun",
+        "root": "",
+        "meaning": "1. separation 2. dissatisfaction",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "discrepancy",
+        "pos": "noun",
+        "root": "",
+        "meaning": "1. mismatch 2. paradox",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "paradox",
+        "pos": "noun",
+        "root": "",
+        "meaning": "1. seemingly controversial & illogical statement, but in fact valid or maybe valid *2. unexpected conclusion",
+        "example": "1. It is a paradox that global warming leads to the ice age. 2. to result a paradox",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "seemingly",
+        "pos": "adj",
+        "root": "",
+        "meaning": "outwardly (the reality may be different)",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "confiscate",
+        "pos": "verb",
+        "root": "",
+        "meaning": "1. to lose something by rule or law 2. to capture by rule or law",
+        "example": "1. confiscatory tax system  ",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "enforce",
+        "pos": "verb",
+        "root": "",
+        "meaning": "to bring into effect",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "abandon",
+        "pos": "verb",
+        "root": "",
+        "meaning": "to give up",
+        "example": "",
+        "synonym": "",
+        "antonym": ""
+    },
+    {
+        "word": "abandon",
+        "pos": "noun",
+        "root": "",
+        "meaning": "uncontrolled behaviour",
+        "example": "He danced wih wild abandon.",
         "synonym": "",
         "antonym": ""
     }
