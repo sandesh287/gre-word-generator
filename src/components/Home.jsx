@@ -212,12 +212,12 @@ function Home() {
                                 Next Word
                             </button>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
         </div>
-        <p>Copyright © 2023 BabaGREWords.com, Inc. • All Rights Reserved</p>
+        <p className="copyright">Copyright © 2023 BabaGREWords.com, Inc. • All Rights Reserved</p>
     </div>
   )
 }

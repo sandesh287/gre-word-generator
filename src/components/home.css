@@ -54,7 +54,6 @@ button:hover{
 .App {
 	text-align: center;
 	margin: auto;
-	width: 50rem;
 	justify-content: center;
 }
 
@@ -115,4 +114,14 @@ button:hover{
 	color: rgba(255, 0, 0, 0.6);
 	font-weight: bold;
 	margin-top: 4%;
+}
+
+
+@media only screen and (max-width: 600px) {
+	h1{
+		font-size: 25px;
+	}
+	.copyright{
+		font-size: 7px;
+	}
 }
