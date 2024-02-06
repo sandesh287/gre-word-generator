@@ -11,6 +11,7 @@ function Home() {
     const [wordExample, setWordExample] = useState('Word example will be displayed here');
     const [wordSynonym, setWordSynonym] = useState('Word synonym will be displayed here');
     const [wordAntonym, setWordAntonym] = useState('Word antonym will be displayed here');
+    const [isFlipped, setFlipped] = useState(false);
 
     useEffect(() => {
         // Load the dataset when the component mounts
@@ -55,7 +56,7 @@ function Home() {
             const pos = wordDataset[currentRandomWordIndex].pos;
             setWordPOS(<div>Part of speech:<span className="blue-text"> {pos}</span></div>);
         } else {
-            console.error('No word generated yet');
+            alert('No word generated yet');
         }
     };
 
@@ -64,7 +65,7 @@ function Home() {
             const root = wordDataset[currentRandomWordIndex].root;
             setWordRoot(<div>Root:<span className="blue-text"> {root}</span></div>);
         } else {
-            console.error('No word generated yet');
+            alert('No word generated yet');
         }
     };
 
@@ -73,7 +74,7 @@ function Home() {
             const meaning = wordDataset[currentRandomWordIndex].meaning;
             setWordMeaning(<div>Meaning:<span className="blue-text"> {meaning}</span></div>);
         } else {
-            console.error('No word generated yet');
+            alert('No word generated yet');
         }
     };
 
@@ -82,7 +83,7 @@ function Home() {
             const example = wordDataset[currentRandomWordIndex].example;
             setWordExample(<div>Example:<span className="blue-text"> {example}</span></div>);
         } else {
-            console.error('No word generated yet');
+            alert('No word generated yet');
         }
     };
 
@@ -91,7 +92,7 @@ function Home() {
         const synonym = wordDataset[currentRandomWordIndex].synonym;
         setWordSynonym(<div>Synonym:<span className="blue-text"> {synonym}</span></div>);
         } else {
-        console.error('No word generated yet');
+        alert('No word generated yet');
         }
     };
 
@@ -100,38 +101,128 @@ function Home() {
             const antonym = wordDataset[currentRandomWordIndex].antonym;
             setWordAntonym(<div>Antonym:<span className="blue-text"> {antonym}</span></div>);
         } else {
-            console.error('No word generated yet');
+            alert('No word generated yet');
         }
     };
 
+    const handleFlip = () => {
+        if (currentRandomWordIndex != null) {
+            setFlipped(!isFlipped);
+        }else {
+            alert('No word generated yet');
+        }
+    };
+
+    const handleClick = () => {
+        handleFlip();
+        generateRandomWord();
+    };
+
   return (
-    <div>
-        <h1>GRE Word Generator</h1>
-        <p id="random-word">{randomWord}</p>
-        <button onClick={generateRandomWord}>Generate Word</button>
+    // <div>
+    //     <h1>GRE Word Generator</h1>
+    //     <p id="random-word">{randomWord}</p>
+    //     <button onClick={generateRandomWord}>Generate Word</button>
 
-        <p id="word-pos">{wordPOS}</p>
-        <button onClick={displayWordPOS}>Show Part of Speech</button>
+    //     <p id="word-pos">{wordPOS}</p>
+    //     <button onClick={displayWordPOS}>Show Part of Speech</button>
 
-        <p id="word-root">{wordRoot}</p>
-        <button onClick={displayWordRoot}>Show Root Meaning</button>
+    //     <p id="word-root">{wordRoot}</p>
+    //     <button onClick={displayWordRoot}>Show Root Meaning</button>
 
-        <p id="word-meaning">{wordMeaning}</p>
-        <button onClick={displayWordMeaning}>Show Meaning</button>
+    //     <p id="word-meaning">{wordMeaning}</p>
+    //     <button onClick={displayWordMeaning}>Show Meaning</button>
 
-        <p id="word-example">{wordExample}</p>
-        <button onClick={displayWordExample}>Show Example</button>
+    //     <p id="word-example">{wordExample}</p>
+    //     <button onClick={displayWordExample}>Show Example</button>
 
-        <p id="word-synonym">{wordSynonym}</p>
-        <button onClick={displayWordSynonym}>Show Synonyms</button>
+    //     <p id="word-synonym">{wordSynonym}</p>
+    //     <button onClick={displayWordSynonym}>Show Synonyms</button>
 
-        <p id="word-antonym">{wordAntonym}</p>
-        <button onClick={displayWordAntonym}>Show Antonym</button>
+    //     <p id="word-antonym">{wordAntonym}</p>
+    //     <button onClick={displayWordAntonym}>Show Antonym</button>
 
+    //     <p>Copyright © 2023 BabaGREWords.com, Inc. • All Rights Reserved</p>
+
+    // </div>
+
+    <div className="App">
+        <h1 className="geeks">GRE Word Generator</h1>
+        <div className="container">
+            <div
+                className={`flip-card ${
+                    isFlipped ? "flipped" : ""
+                }`}
+            >
+                <div className="flip-card-inner">
+                    <div className="flip-card-front">
+
+                        <div className="block">
+                            <p id="random-word">{randomWord}</p>
+                            <button onClick={generateRandomWord}>Generate Word</button>
+                        </div>
+
+                        <div className="block">
+                            <p id="word-pos">{wordPOS}</p>
+                            <button onClick={displayWordPOS}>Show Part of Speech</button>
+                        </div>
+
+                        <div className="block">
+                            <p id="word-root">{wordRoot}</p>
+                            <button onClick={displayWordRoot}>Show Root Meaning</button>
+                        </div>
+
+                        <div className="block">
+                            <button
+                                className="flip-button"
+                                onClick={handleFlip}
+                            >
+                                View Meaning
+                            </button>
+                        </div>
+                        
+                    </div>
+                    <div className="flip-card-back">
+
+                        <div className="block">
+                            <p id="word-meaning">{wordMeaning}</p>
+                            <button onClick={displayWordMeaning}>Show Meaning</button>
+                        </div>
+
+                        <div className="block">
+                            <p id="word-example">{wordExample}</p>
+                            <button onClick={displayWordExample}>Show Example</button>
+                        </div>
+
+                        <div className="block">
+                            <p id="word-synonym">{wordSynonym}</p>
+                            <button onClick={displayWordSynonym}>Show Synonyms</button>
+                        </div>
+
+                        <div className="block">
+                            <p id="word-antonym">{wordAntonym}</p>
+                            <button onClick={displayWordAntonym}>Show Antonym</button>
+                        </div>
+
+                        <div className="block">
+                            <button
+                                className="flip-button"
+                                onClick={handleClick}
+                            >
+                                Next Word
+                            </button>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
         <p>Copyright © 2023 BabaGREWords.com, Inc. • All Rights Reserved</p>
-
     </div>
   )
 }
 
 export default Home;
+ 
+    
+        
