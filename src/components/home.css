@@ -111,13 +111,8 @@ button:hover{
 }
 
 .flip-button {
-	/* width: 100px; */
-	/* padding: 10px; */
-	/* font-size: 16px; */
-	/* margin-top: 10px; */
-	background-color: rgb(225, 255, 0);
-	color: rgba(0,111,255,0.6);
-	/* border: none; */
-	/* border-radius: 5px; */
-	/* cursor: pointer; */
+	background-color: rgb(169, 229, 247);
+	color: rgba(255, 0, 0, 0.6);
+	font-weight: bold;
+	margin-top: 4%;
 }
